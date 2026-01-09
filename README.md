@@ -26,5 +26,7 @@ Created by **longtrinh2666**.
 
 ## 📦 Installation
 Clone the repository:
+
 git clone https://github.com/longtrinh2666/python-Command-shell.git
+
 cd python-Command-shell
