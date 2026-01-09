@@ -23,7 +23,7 @@ except ModuleNotFoundError:
     
 import time
 import shutil
-
+ver = 1.0
 startup_path = os.path.expanduser("~")
 os.chdir(startup_path)
 dir = os.getcwd()
@@ -257,8 +257,12 @@ while run:
     elif user_input in ("date", "time"):
         now = datetime.datetime.now()
         print(f"Current date and time: {now.strftime('%Y-%m-%d %H:%M:%S')} ")
+
+    elif user_input in ("version", "ver"):
+        print(f"ver: {ver}")
                     
     else:
         print(" ___________________________________________________________________________ ")
         print("|E:This command is not recognized as an internal , program or executor file.|")
         print("|___________________________________________________________________________|")      
+
