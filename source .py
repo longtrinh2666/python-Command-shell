@@ -131,6 +131,7 @@ while run:
         print("|type           Displays the contents of a text file.                      |")
         print("|python         Enter python shell mode                                    |")
         print("|date           Displays or sets the date.                                 |")
+        print("|ver/version    Check version                                              |")
         print("|__________________________________________________________________________|")
     
     elif user_input.startswith("copy "):
@@ -265,4 +266,5 @@ while run:
         print(" ___________________________________________________________________________ ")
         print("|E:This command is not recognized as an internal , program or executor file.|")
         print("|___________________________________________________________________________|")      
+
 
