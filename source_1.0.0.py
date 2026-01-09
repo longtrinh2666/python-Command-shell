@@ -23,7 +23,7 @@ except ModuleNotFoundError:
     
 import time
 import shutil
-ver = 1.0
+ver = 1.0.0
 startup_path = os.path.expanduser("~")
 os.chdir(startup_path)
 dir = os.getcwd()
@@ -266,6 +266,7 @@ while run:
         print(" ___________________________________________________________________________ ")
         print("|E:This command is not recognized as an internal , program or executor file.|")
         print("|___________________________________________________________________________|")      
+
 
 
 
