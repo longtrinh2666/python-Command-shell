@@ -31,6 +31,15 @@ Created by [longtrinh2666](https://github.com/longtrinh2666).
 
 ## 🚀 Getting Started
 
-Run the terminal:
+step 1 download:
+git:
+```bash
+git clone https://github.com/longtrinh2666/klpython-terminal.git
+```
+or click download <>code -> download zip -> unzip any where
+
+step 2 Run the terminal:
+open terminal at klpython-terminal folder
+and:
 ```bash
 python source_1.2.0.py
