@@ -6,7 +6,9 @@ It features ASCII art banners, system information display, and a wide range of b
 Developed by: longtrinh2666
 Version: 1.1.0
 
+
 ✨ Features
+===========================================================
 
 File & Directory Management:
   cd <path>        Change current directory
@@ -43,7 +45,9 @@ Utilities:
   help             Show this command list
   exit             Quit the shell
 
+
 🚀 Installation & Usage
+===========================================================
 
 Clone the repository:
   git clone https://github.com/longtrinh2666/python-Command-shell.git
@@ -55,7 +59,9 @@ Install required modules:
 Run the shell:
   python source_1.1.0.py
 
+
 📌 Roadmap
+===========================================================
 
 - Add more Bash-like commands (grep, head, tail, etc.)
 - Support .myshell scripts for batch execution
@@ -63,7 +69,9 @@ Run the shell:
 - Customizable prompt (time, user, colors)
 - Activity logging
 
+
 🏷️ Info
+===========================================================
 
 Author: longtrinh2666
 Version: 1.1.0
