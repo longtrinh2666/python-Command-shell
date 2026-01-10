@@ -16,7 +16,8 @@ Created by [longtrinh2666](https://github.com/longtrinh2666).
 - **System Information**
   - `date/time`, `ver/version`, `python` interactive shell
 - **Network Manager (nwm)**
-  - `ipconfig/ifconfig` → show interfaces and IP addresses + public IP
+  - `ipconfig/ifconfig` → show interfaces and IP addresses
+  - `publicip` → show public IP
   - `wifi scan`, `wifi connect <SSID> [password]`, `wifi disconnect`
   - `ping <host>` → test connectivity
   - `speedtest` → measure download/upload speed and ping
