@@ -1,4 +1,4 @@
-# Python Command Shell 🐍💻
+# klPython Command Shell 🐍💻
 
 A custom command shell written in Python, designed for Windows (with Linux/macOS support).
 It features ASCII art banners, system information display, and a wide range of built‑in commands.
