@@ -53,9 +53,6 @@ Clone the repository:
   git clone https://github.com/longtrinh2666/python-Command-shell.git
   cd python-Command-shell
 
-Install required modules:
-  pip install psutil keyboard
-
 Run the shell:
   python source_1.1.0.py
 
